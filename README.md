@@ -16,6 +16,7 @@
   <img src="https://www.pngmart.com/files/23/Power-Bi-Logo-PNG-File.png" alt="PowerBI" width="50" height="50" style="margin: 10px;" />
   <img src="https://th.bing.com/th/id/OIP.6pLWWA3aD7z2GozLFuDQKgHaHp?rs=1&pid=ImgDetMain" alt="PostgreSQL" width="50" height="50" style="margin: 10px;" />
   <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" alt="Microsoft SQL Server" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://flask.palletsprojects.com/en/3.0.x/_static/flask-vertical.png" alt="Flask" width="40" height="50" style="margin: 10px;"/>
 </p>
 
 ---
