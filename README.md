@@ -43,10 +43,7 @@ Developed and optimized fraud detection models using XGBoost and Random Forest o
 - **Tools Used**: Python, XGBoost, Random Forest  
 [![GIF of fraud detection](https://media.giphy.com/media/3o7aCWMt7NIsZR8Hsc/giphy.gif)](https://github.com/shivakumar99/fraud-detection)
 
-#### **YouTube Video Analytics** 
-Created a data lakehouse using Snowflake and processed 2.6M video records for trend analysis and reporting.
-- **Tools Used**: Snowflake, Python, Tableau  
-[![GIF of data processing](https://media.giphy.com/media/3o7bu57lC8yq6vUeuI/giphy.gif)](https://github.com/shivakumar99/youtube-analytics)
+
 
 ---
 
